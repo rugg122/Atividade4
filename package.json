@@ -1,0 +1,20 @@
+{
+  "name": "Atividade_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Izabelle-Schiavinato/Atividade_04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Izabelle-Schiavinato/Atividade_04/issues"
+  },
+  "homepage": "https://github.com/Izabelle-Schiavinato/Atividade_04#readme"
+}
